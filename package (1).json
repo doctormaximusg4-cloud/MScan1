@@ -1,0 +1,12 @@
+{
+  "name": "com.mintsog.mscan.camera",
+  "version": "1.1.0",
+  "description": "Camera2 TextureView preview for MScan",
+  "cordova": {
+    "id": "com.mintsog.mscan.camera",
+    "platforms": [
+      "android"
+    ]
+  },
+  "license": "MIT"
+}
